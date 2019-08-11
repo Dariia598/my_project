@@ -1,0 +1,40 @@
+/*@import url('https://fonts.googleapis.com/css?family=Montserrat|Roboto:400,400i,500&display=swap&subset=cyrillic,cyrillic-ext');*/
+
+/*.column-left {*/
+/*    float: left;*/
+/*    width: 30%;*/
+/*}*/
+
+/*.column-right {*/
+/*    float: left;*/
+/*    width: 60%;*/
+/*}*/
+
+/*.footer {*/
+/*    clear: both;*/
+/*}*/
+
+/*.text-red {color: red;*/
+/*    font-weight: bold;}*/
+
+
+/*.action {color: red;*/
+/*    font-weight: bold;}*/
+
+p {color: red}
+p {color: red}
+h1.center{text-align: center}
+p.justify {text-align: justify}
+
+
+body {
+    background-image: url("../images/back.jpg");
+    /*  D:\IT\images\back.jpg  - absolute path */
+    /*  images/back.jpg  - relative path */
+    /*background-image: url("http://localhost:63342/IT/images/back.jpg");*/
+    /*background-image: url("D:\IT\images\back.jpg");*/
+}
+
+
+/*background-color: silver;*/
+/*background-position: center;*/
